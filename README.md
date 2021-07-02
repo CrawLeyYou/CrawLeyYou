@@ -5,5 +5,6 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 # Projects
 Check out my main project: https://github.com/AntiAternosBot 
+Also i have more private projects.
 # To Do
 I'm gonna make **NameMC Viewer Bot**

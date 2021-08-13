@@ -9,9 +9,9 @@
 (About java: I don't know anything about java me and my friend made a repo contains skid of minecraft client source and we don't care anymore.) 
 # Projects
 
-[![nodejs-logo-FBE122E377-seeklogo com (1) (1)](https://user-images.githubusercontent.com/60201017/128577118-5f9278d7-42cf-4418-87a9-767213bacd4d.png)
-](https://github.com/CrawLeyYou/NodeJS-Encoder-Decoder)
-[![nodejs-logo-FBE122E377-seeklogo com (1)](https://user-images.githubusercontent.com/60201017/128577065-55bb5f63-527c-4236-b2a3-baee7a2a8d7d.jpg)](https://github.com/AntiAternosBot)
+[NodeJS-Encoder-Decoder](https://github.com/CrawLeyYou/NodeJS-Encoder-Decoder)
+
+[AntiAternosBot](https://github.com/AntiAternosBot)
 
 
 # To Do

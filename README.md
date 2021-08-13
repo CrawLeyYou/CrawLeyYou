@@ -1,6 +1,7 @@
 # My Stats
-![](https://github.com/CrawLeyYou/stats/blob/master/generated/overview.svg)
-![](https://github.com/CrawLeyYou/stats/blob/master/generated/languages.svg)
+![Stat](https://github-readme-stats.vercel.app/api?username=CrawLeyYou&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
+# Most Used Languages (Public)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrawLeyYou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # Currently Using 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a)

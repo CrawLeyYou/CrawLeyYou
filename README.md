@@ -13,6 +13,8 @@
 
 [NodeJS-Encoder-Decoder](https://github.com/CrawLeyYou/NodeJS-Encoder-Decoder)
 
+[HWID](https://github.com/CrawLeyYou/CSharp-HWID)
+
 [AntiAternosBot](https://github.com/AntiAternosBot)
 
 

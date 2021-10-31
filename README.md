@@ -17,6 +17,7 @@
 
 [AntiAternosBot](https://github.com/AntiAternosBot)
 
+[Discord Webhook Spammer](https://github.com/CrawLeyYou/Discord-Webhook-Spammer)
 
 # To Do
 I don't have an idea to make a public project right now, but if I come up with an interesting and public makeable idea that I can do, why not?

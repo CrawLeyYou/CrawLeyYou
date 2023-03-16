@@ -4,10 +4,10 @@
 ![Views](https://komarev.com/ghpvc/?username=CrawLeyYou&style=flat-square)
 # Most Used Languages (Public)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrawLeyYou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-# Currently Using 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
+# Languages I'm Working On
+[![Languages](https://skillicons.dev/icons?i=js,kotlin,nodejs,cs,powershell&theme=dark)](https://skillicons.dev)
+# Tools I'm Using
+[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,postman,idea,git&theme=dark)](https://skillicons.dev)
 # Projects
 
 [NodeJS-Encoder-Decoder](https://github.com/CrawLeyYou/NodeJS-Encoder-Decoder)

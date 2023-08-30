@@ -14,7 +14,7 @@
 
 [HWID](https://github.com/CrawLeyYou/CSharp-HWID)
 
-[AntiAternosBot](https://github.com/AntiAternosBot)
+[AntiAternosBot](https://github.com/Agalar-Development)
 
 [Discord Webhook Spammer](https://github.com/CrawLeyYou/Discord-Webhook-Spammer)
 
